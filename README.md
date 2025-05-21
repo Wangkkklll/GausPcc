@@ -14,10 +14,9 @@
 - [25-05-22] We initially released code and paper.
 
 ## Todo
-- [x] ~~Release Paper~~ 
-- [x] ~~Release the example code~~
-- [x] ~~Release checkpoint~~
+- [x] ~~Release Paper, Example Code and Checkpoint~~ 
 - [ ] Release Dataset
+- [ ] Support for More Framework
 
 ## Links
 Our additional work on point cloud compression has also been released. Welcome to check it.
