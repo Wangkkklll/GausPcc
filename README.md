@@ -134,6 +134,9 @@ If your have any comments or questions, feel free to contact [kangliwang@stu.pku
 - We thank all authors from [DL3DV-10K](https://github.com/DL3DV-10K/Dataset) for their excellent NVS dataset work.
 - We thank all authors from [RENO](https://github.com/NJUVISION/RENO), [SparsePCGC](https://github.com/NJUVISION/SparsePCGC), [Octattention](https://github.com/zb12138/OctAttention), [EHEM](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.pdf) for their excellent point cloud compression work.
 
+## LICENSE
+
+Please follow the LICENSE of [3D-GS](https://github.com/graphdeco-inria/gaussian-splatting) and [DL3DV-10K](https://github.com/DL3DV-10K/Dataset).
 
 ## 📘 Citation
 Please consider citing our work as follows if it is helpful.
