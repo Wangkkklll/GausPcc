@@ -3,7 +3,7 @@
 <p align="center">
     <strong><a href="https://github.com/Wangkkklll">Kangli Wang</a></strong><sup>1</sup>, 
     <strong><a href="https://shihao-homepage.com">Shihao Li</a></strong><sup>1</sup>,
-    <strong><a href="https://qianxi-homepage.com">Qianxi Yi</a></strong><sup>1,2</sup>,
+    <strong><a href="https://github.com/GongsunBABA">Qianxi Yi</a></strong><sup>1,2</sup>,
     <strong><a href="https://gaowei262.github.io/">Wei Gao</a></strong><sup>1,2*</sup><br>
     (<em>* Corresponding author</em>)
 </p>
