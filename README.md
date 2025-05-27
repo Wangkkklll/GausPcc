@@ -9,9 +9,14 @@
     <sup>1</sup>SECE, Peking University<br>
     <sup>2</sup>Peng Cheng Laboratory, Shenzhen, China
 </p>
+<p align="center">
+  <a href="https://arxiv.org/abs/2505.18197"><img src="https://img.shields.io/badge/Arxiv-2505.18197-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+  <a href="https://github.com/Wangkkklll/GausPcc?tab=MIT-1-ov-file"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
+  <a href="https://gauspcc.github.io/"><img src="https://img.shields.io/badge/Project_Page-GausPcc-blue.svg" alt="Home Page"></a>
+</p>
 
 ## 📣 News
-- [25-05-22] We initially released code and paper.
+- [25-05-27] 🔥 We initially released code and paper.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
@@ -19,8 +24,8 @@
 - [ ] Support for More Framework
 
 ## Links
-Our additional work on point cloud compression has also been released. Welcome to check it.
-- [UniPCGC](https://github.com/yihangchen-ee/hac/) [AAAI'25]: A unified point cloud geometry compression. [[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] [[`Arxiv`](https://arxiv.org/abs/2503.18541)] [[`Project`](https://uni-pcgc.github.io/)]
+Our work on point cloud compression has also been released. Welcome to check it.
+- 🔥 [UniPCGC](https://github.com/yihangchen-ee/hac/) [AAAI'25]: A unified point cloud geometry compression. [[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] [[`Arxiv`](https://arxiv.org/abs/2503.18541)] [[`Project`](https://uni-pcgc.github.io/)]
 
 
 ## 📌 Introduction
@@ -59,6 +64,12 @@ Please refer to the following links to obtain the data.
 |:-----: |:-----: |
 | Testset | [Link](#)  |
 | GausPcc-1K | [Link](#)  |
+
+## ⌛ Checkpoint Link
+Please refer to the following links to obtain the ckpt.
+| Model | Download Link | 
+|:-----: |:-----: |
+| GausPcgc | [Link](https://pan.baidu.com/s/1GuY63RtJ0_T8Fk0Fo2tSGA?pwd=h2pg)  |
 
 ## 🚀 Running
 For train our point cloud compreesion framework
@@ -140,5 +151,23 @@ Please follow the LICENSE of [3D-GS](https://github.com/graphdeco-inria/gaussian
 ## 📘 Citation
 Please consider citing our work as follows if it is helpful.
 ```bibtex
-@article{}
+@misc{wang2025novelbenchmarkdatasetefficient,
+      title={A Novel Benchmark and Dataset for Efficient 3D Gaussian Splatting with Gaussian Point Cloud Compression}, 
+      author={Kangli Wang and Shihao Li and Qianxi Yi and Wei Gao},
+      year={2025},
+      eprint={2505.18197},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR},
+      url={https://arxiv.org/abs/2505.18197}, 
+}
+```
+If you use the GausPcc-1K dataset we released, please also consider citing DL3DV.
+```bibtex
+@inproceedings{ling2024dl3dv,
+  title={Dl3dv-10k: A large-scale scene dataset for deep learning-based 3d vision},
+  author={Ling, Lu and Sheng, Yichen and Tu, Zhi and Zhao, Wentian and Xin, Cheng and Wan, Kun and Yu, Lantao and Guo, Qianyu and Yu, Zixun and Lu, Yawen and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22160--22169},
+  year={2024}
+}
 ```
