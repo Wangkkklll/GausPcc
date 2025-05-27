@@ -1,7 +1,10 @@
 <h1 align="center">A Novel Benchmark and Dataset for Efficient 3D Gaussian Splatting with Gaussian Point Cloud Compression </h1>
 
 <p align="center">
-    <strong>Kangli Wang</strong><sup>1</sup>, <strong>Shihao Li</strong><sup>1</sup>,<strong>Qianxi Yi</strong><sup>1,2</sup>,<strong>Wei Gao</strong><sup>1,2*</sup><br>
+    <strong><a href="https://github.com/Wangkkklll">Kangli Wang</a></strong><sup>1</sup>, 
+    <strong><a href="https://shihao-homepage.com">Shihao Li</a></strong><sup>1</sup>,
+    <strong><a href="https://qianxi-homepage.com">Qianxi Yi</a></strong><sup>1,2</sup>,
+    <strong><a href="https://gaowei262.github.io/">Wei Gao</a></strong><sup>1,2*</sup><br>
     (<em>* Corresponding author</em>)
 </p>
 
