@@ -65,7 +65,7 @@ pip install -e HAC/submodules/arithmetic
 Please refer to the following links to obtain the data.
 | Datasets | Download Link | 
 |:-----: |:-----: |
-| Testset | [Link](#)  |
+| Testset | [Link](https://pan.baidu.com/s/118pSucg7rTVOoL37gUy1Lg?pwd=iv7t)  |
 | GausPcc-1K | [Link](#)  |
 
 ## ⌛ Checkpoint Link
