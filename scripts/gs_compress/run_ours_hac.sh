@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd /src/gs_compress/HAC
 # MipNeRF360 scenes
 for lmbda in 0.004 0.0005; do
   for scene in bicycle garden stump room counter kitchen bonsai flowers treehill; do

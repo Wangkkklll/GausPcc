@@ -20,6 +20,7 @@
 
 ## 📣 News
 - [25-05-27] 🔥 We initially released code and paper.
+- [25-06-05] 🔥 We released the code support for HAC++, TC-GS and Cat-3DGS.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
@@ -83,6 +84,7 @@ run the following code for train Our-HAC gaussian compression
 ```
 ./scripts/gs_compress/run_ours_hac.sh
 ```
+More training scripts are in [/scripts](./scripts/gs_compress)
 
 ## 💪 Integration with More Frameworks
 
