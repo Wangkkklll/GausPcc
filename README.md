@@ -21,7 +21,7 @@
 ## 📣 News
 - [25-05-27] 🔥 We initially released code and paper.
 - [25-06-05] 🔥 We released the code support for HAC++, TC-GS and Cat-3DGS.
-- [25-06-28] 🔥 We released the [GausPcc-1K](https://pan.baidu.com/s/1GuY63RtJ0_T8Fk0Fo2tSGA?pwd=h2pg) dataset.
+- [25-06-28] 🔥 We released the [GausPcc-1K](https://pan.baidu.com/s/1W8iIMAAGoBlrefFLgZygZQ?pwd=kkll) dataset.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
