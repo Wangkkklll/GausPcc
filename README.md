@@ -21,10 +21,11 @@
 ## 📣 News
 - [25-05-27] 🔥 We initially released code and paper.
 - [25-06-05] 🔥 We released the code support for HAC++, TC-GS and Cat-3DGS.
+- [25-06-28] 🔥 We released the [GausPcc-1K](https://pan.baidu.com/s/1GuY63RtJ0_T8Fk0Fo2tSGA?pwd=h2pg) dataset.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
-- [ ] Release Dataset
+- [x] ~~Release Dataset~~
 - [ ] Support for More Framework
 
 ## Links
@@ -62,12 +63,12 @@ pip install -e HAC/submodules/gridencoder
 pip install -e HAC/submodules/arithmetic
 ```
 
-## 🧩 Dataset Preparation (Coming Soon)
-Please refer to the following links to obtain the data.
+## 🧩 Dataset Preparation
+Please refer to the following links to obtain the data. The entire GausPcc-1K dataset will be updated gradually in the following links, including geometry, attributes, and data before and after quantization.
 | Datasets | Download Link | 
 |:-----: |:-----: |
 | Testset | [Link](https://pan.baidu.com/s/118pSucg7rTVOoL37gUy1Lg?pwd=iv7t)  |
-| GausPcc-1K | [Link](#)  |
+| GausPcc-1K | [Link](https://pan.baidu.com/s/1W8iIMAAGoBlrefFLgZygZQ?pwd=kkll)  |
 
 ## ⌛ Checkpoint Link
 Please refer to the following links to obtain the ckpt.
