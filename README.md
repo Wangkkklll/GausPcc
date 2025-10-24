@@ -22,6 +22,7 @@
 - [25-05-27] 🔥 We initially released code and paper.
 - [25-06-05] 🔥 We released the code support for HAC++, TC-GS and Cat-3DGS.
 - [25-06-28] 🔥 We released the [GausPcc-1K](https://pan.baidu.com/s/1W8iIMAAGoBlrefFLgZygZQ?pwd=kkll) dataset.
+- [25-10-24] 🔥 We released the [AnyPcc](https://anypcc.github.io/) has released. It  has higher performance in Gaussian Compression.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
@@ -32,6 +33,8 @@
 Our work on point cloud compression has also been released. Welcome to check it.
 - 🔥 [UniPCGC](https://uni-pcgc.github.io/) [AAAI'25]: A unified point cloud geometry compression. [[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] [[`Arxiv`](https://arxiv.org/abs/2503.18541)] [[`Project`](https://uni-pcgc.github.io/)]
 
+Our work on any source point cloud compression has also been released. Its performance is better than UniPCGC and GausPcc. Welcome to check it.
+- 🔥 [AnyPcc](https://anypcc.github.io/) [Arxiv'25]: Any Source Point Cloud Compression ! [[`Arxiv`](https://arxiv.org/abs/2510.20331)] [[`Project`](https://anypcc.github.io/)]
 
 ## 📌 Introduction
 
