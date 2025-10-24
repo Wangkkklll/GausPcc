@@ -22,7 +22,7 @@
 - [25-05-27] 🔥 We initially released code and paper.
 - [25-06-05] 🔥 We released the code support for HAC++, TC-GS and Cat-3DGS.
 - [25-06-28] 🔥 We released the [GausPcc-1K](https://pan.baidu.com/s/1W8iIMAAGoBlrefFLgZygZQ?pwd=kkll) dataset.
-- [25-10-24] 🔥 We released the [AnyPcc](https://anypcc.github.io/) has released. It  has higher performance in Gaussian Compression.
+- [25-10-24] 🔥 We released the [AnyPcc](https://anypcc.github.io/). It  has higher performance in Gaussian Compression.
 
 ## Todo
 - [x] ~~Release Paper, Example Code and Checkpoint~~ 
