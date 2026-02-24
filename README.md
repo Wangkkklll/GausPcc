@@ -34,7 +34,7 @@ Our work on point cloud compression has also been released. Welcome to check it.
 - 🔥 [UniPCGC](https://uni-pcgc.github.io/) [AAAI'25]: A unified point cloud geometry compression. [[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/33387)] [[`Arxiv`](https://arxiv.org/abs/2503.18541)] [[`Project`](https://uni-pcgc.github.io/)]
 
 Our work on any source point cloud compression has also been released. Its performance is better than UniPCGC and GausPcc. Welcome to check it.
-- 🔥 [AnyPcc](https://anypcc.github.io/) [Arxiv'25]: Any Source Point Cloud Compression ! [[`Arxiv`](https://arxiv.org/abs/2510.20331)] [[`Project`](https://anypcc.github.io/)]
+- 🔥 [AnyPcc](https://anypcc.github.io/) [CVPR'26]: Any Source Point Cloud Compression ! [[`Arxiv`](https://arxiv.org/abs/2510.20331)] [[`Project`](https://anypcc.github.io/)]
 
 ## 📌 Introduction
 
